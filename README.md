@@ -2,7 +2,7 @@
 
 Hi, my name is Andrew, and I'm an undergraduate student studying Data Science at the University of North Texas.
 - 🔍 I’m most interested in telling stories through data and developing web applications
-- 🌱 I’m currently learning about principles of visualization and database management
+- 🌱 I’m currently learning about business analytics and database management
 - 📚 My favorite book series is the Stormlight Archive by Brandon Sanderson
 - 👯 If you're interested in collaborating on a project, feel free reach out
 - 📩 Email: andrewsummitt03@gmail.com
